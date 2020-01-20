@@ -12,3 +12,10 @@
     color:white;
     font-family: sans-serif;
 }
+
+.footer {
+    padding: 50px 100px;
+    text-align:center;
+    background:red;
+    color:white;
+}
